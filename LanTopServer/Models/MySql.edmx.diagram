@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ea9b91b7797f45dc986aacc3d3be2129" Name="Diagram1" ZoomLevel="101" >
+        <EntityTypeShape EntityType="LanTopModel.Message" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="LanTopModel.Blacklist" Width="1.5" PointX="2.5" PointY="0.75" />
+        <EntityTypeShape EntityType="LanTopModel.Keyword" Width="1.5" PointX="4.5" PointY="0.75" />
+        <EntityTypeShape EntityType="LanTopModel.Permission" Width="1.5" PointX="2.5" PointY="2.75" />
+        <EntityTypeShape EntityType="LanTopModel.Receive" Width="1.5" PointX="4.5" PointY="2.75" />
+        <EntityTypeShape EntityType="LanTopModel.Config" Width="1.5" PointX="6.125" PointY="1" />
+        <EntityTypeShape EntityType="LanTopModel.Contact" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="LanTopModel.GroupsName" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="LanTopModel.Group" Width="1.5" PointX="4.75" PointY="5.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
